@@ -1,0 +1,14 @@
+{
+  "name": "asd",
+  "version": "0.0.1",
+  "description": "bu bir rpc maker",
+  "main": "archex.js",
+  "scripts": {
+    "test": "asdsa"
+  },
+  "author": "Melih",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.1.3"
+  }
+}
